@@ -2197,3 +2197,18 @@ FPackageName: Skipped package /Game/VisionGrunt/Animation/Brutal_To_Happy_Walkin
 [2025.04.30-10.02.07:516][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13185.050781
 [2025.04.30-10.02.08:520][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.30-10.02.08:520][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13185.718750, Update Interval: 315.914185
+[2025.04.30-10.02.49:589][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-10.02.49:853][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.04.30-10.02.49:989][891]LogSavePackage: Moving output files for package: /Game/Upperfloor_level/UpperFloor
+[2025.04.30-10.02.49:991][891]LogSavePackage: Moving '../../../../../../Users/brenn/Desktop/game dev school/WideAsleep/WideAsleep/Saved/UpperFloor1EDEC5CC43D7D191E48BD2BA2C75E240.tmp' to '../../../../../../Users/brenn/Desktop/game dev school/WideAsleep/WideAsleep/Content/Upperfloor_level/UpperFloor.umap'
+[2025.04.30-10.02.50:019][891]LogFileHelpers: Saving map 'UpperFloor' took 0.237
+[2025.04.30-10.02.50:044][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 455.639 ms
+[2025.04.30-10.02.50:113][891]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-10.02.50:113][891]LogContentValidation: Enabled validators:
+[2025.04.30-10.02.50:113][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.30-10.02.50:113][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-10.02.50:113][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-10.02.50:113][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.30-10.02.50:113][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-10.02.50:113][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.30-10.02.50:115][891]AssetCheck: /Game/Upperfloor_level/UpperFloor Validating asset
